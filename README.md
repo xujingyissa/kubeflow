@@ -1,2 +1,2 @@
 # images
-gcr.io images for kubeflow
+google gcr.io images for kubeflow
